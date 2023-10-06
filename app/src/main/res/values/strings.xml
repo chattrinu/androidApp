@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">week4</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="pass_details"><![CDATA[Pass Details >>]]></string>
+    <string name="web_browser">Web Browser</string>
+    <string name="sms">SMS</string>
+    <string name="back_to_main">Back to Main</string>
+
+</resources>
