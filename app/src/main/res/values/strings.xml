@@ -5,5 +5,7 @@
     <string name="web_browser">Web Browser</string>
     <string name="sms">SMS</string>
     <string name="back_to_main">Back to Main</string>
+    <string name="load_url">Load URL</string>
+    <string name="enter_url">Enter URL</string>
 
 </resources>

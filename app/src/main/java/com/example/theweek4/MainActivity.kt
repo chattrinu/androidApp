@@ -23,10 +23,15 @@ override fun onCreate(savedInstanceState: Bundle?) {
             var intent = Intent(this, PassDetailsActivity::class.java)
             intent.putExtra("name",name)
             startActivity(intent)
+
         } else
         {
             Toast.makeText(this,"Please Enter your name", Toast.LENGTH_LONG).show()
         }
+    }
+    binding.webBrowserButton.setOnClickListener{
+        startActivity(Intent(this, WebBrowserActivity::class.java))
+
     }
 }
 
