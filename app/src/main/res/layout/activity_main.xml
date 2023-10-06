@@ -43,7 +43,7 @@
         app:layout_constraintTop_toBottomOf="@+id/passDetailsButton"
         android:layout_marginTop="5dp"/>
     <Button
-        android:id="@+id/webBrowser"
+        android:id="@+id/smsButton"
         android:layout_width="@dimen/button_width"
         android:layout_height="wrap_content"
         android:text="@string/sms"
